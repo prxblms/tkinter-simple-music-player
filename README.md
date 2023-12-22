@@ -10,3 +10,5 @@ Este projeto ainda está em desenvolvimento, disponibilizarei esse código bási
 ### After Dawn - Music Player 2
 
 Com o tempo pretendo desenvolver melhor este projeto para torná-lo um bom reprodutor de música.
+
+![omesniffer](musicplayer.PNG)
